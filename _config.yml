@@ -1,0 +1,118 @@
+typography_spectrum: 0.5524038252263966
+color:
+  brandStrength: 0.5137994625295816
+  lightness: 0.02246978374105869
+  saturation: 0.3020974044190111
+  rhythmicContrast: 0.570562578697901
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.9566684358614949
+analytics:
+  google: UA-34299892-5
+author:
+  name: 'info@copenhagenfurnishing.com  – +45 39207308 '
+  email: info@copenhagenfurnishing.com
+  url: 'https://copenhagenfurnishing.com'
+name: Copenhagen Furnishing
+url: 'https://copenhagenfurnishing.com/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Furniture
+    id: 1f05875d-b8cb-47d3-a6a5-7d08eca1962e
+    type: content
+  - name: Wardrobe
+    id: 2f931eb3-8558-46ba-9823-b3061e9145aa
+    type: content
+  - name: Bedroom
+    id: 0655fcac-688c-4039-b579-3f22aeb39fc6
+    type: content
+  - name: Bathroom
+    id: 4f1d8961-08f0-4a7d-9ccf-42be651ed036
+    type: content
+title: Copenhagen Furnishing
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FabvwLl9W-8Q%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DabvwLl9W-8Q&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FabvwLl9W-8Q%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/abvwLl9W-8Q'
+      keywords:
+        - imovie
+      related: []
+      author:
+        - name: Frederik Petersen
+          url: 'https://www.youtube.com/channel/UCPofvaorKSHg7qm2vt5-p_Q'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Copenhagen Furnishing - Ken Burns intro
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=abvwLl9W-8Q&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=abvwLl9W-8Q&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=abvwLl9W-8Q&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=abvwLl9W-8Q&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=abvwLl9W-8Q&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=abvwLl9W-8Q'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=abvwLl9W-8Q
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=abvwLl9W-8Q
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: This video is about Copenhagen Furnishing - Ken Burns intro
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Delivering high end design and custom made furniture with perfect finish and
+  integrity for more than 30 years.
+purpose:
+  - type: internal
+    label: Contact us
+    item: 70ee7970-f7b1-48b8-a935-b4f4c65b9b24
+github: true
