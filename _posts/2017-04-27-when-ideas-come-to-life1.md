@@ -1,0 +1,23 @@
+---
+inFeed: true
+description: >-
+  Copenhagen Furnishing is about making ideas come to life. We believe that
+  dialogue leads the way to success. Our knowledge, experience and hard work
+  goes hand in hand with the thoughts and preferences of the customer, to form a
+  singular expression of personal integrity and a truly original aesthetic.
+  Balance is everything. 
+dateModified: '2018-04-03T15:23:31.326Z'
+datePublished: '2018-04-03T15:23:32.035Z'
+title: When ideas come to life
+author: []
+publisher: {}
+via: {}
+isBasedOnUrl: 'http://copenhagenfurnishing.com/about-copenhagen-furnishing/'
+sourcePath: _posts/2017-04-27-when-ideas-come-to-life1.md
+starred: false
+datePublishedOriginal: '2017-04-27T11:01:48.149Z'
+_type: MediaObject
+
+---
+# When ideas come to life
+![Copenhagen Furnishing is about making ideas come to life. We believe that dialogue leads the way to success. Our knowledge, experience and hard work goes hand in hand with the thoughts and preferences of the customer, to form a singular expression of personal integrity and a truly original aesthetic. Balance is everything. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f5fb3c8-3b6e-4445-99d3-113614fb884e.jpg)
