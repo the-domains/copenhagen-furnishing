@@ -4,8 +4,8 @@ description: >-
   When it comes to creating space for people to live in, we choose Casadesús.
   Their balanced understanding of functionality, personal design choices and
   aesthetic originality makes them a perfect partner, and a great inspiration. 
-dateModified: '2018-04-03T15:42:18.022Z'
-datePublished: '2018-04-03T15:42:18.619Z'
+dateModified: '2018-04-03T15:42:30.325Z'
+datePublished: '2018-04-03T15:42:31.494Z'
 title: Casadesús living
 author: []
 publisher: {}
@@ -20,4 +20,3 @@ _type: Article
 ---
 # Casadesús living
 ![When it comes to creating space for people to live in, we choose Casadesús. Their balanced understanding of functionality, personal design choices and aesthetic originality makes them a perfect partner, and a great inspiration. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdede857-7319-4a00-addc-34050ea418c2.jpg)
-![When it comes to creating space for people to live in, we choose Casadesús. Their balanced understanding of functionality, personal design choices and aesthetic originality makes them a perfect partner, and a great inspiration. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f62add25-74f2-49af-9e1d-bb271b21cb16.jpg)
