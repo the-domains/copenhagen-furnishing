@@ -6,8 +6,8 @@ description: >-
   goes hand in hand with the thoughts and preferences of the customer, to form a
   singular expression of personal integrity and a truly original aesthetic.
   Balance is everything. 
-dateModified: '2018-04-04T10:26:14.110Z'
-datePublished: '2018-04-04T10:26:14.881Z'
+dateModified: '2018-04-04T11:16:16.152Z'
+datePublished: '2018-04-04T11:16:17.133Z'
 title: When ideas come to life
 author: []
 publisher: {}
@@ -20,4 +20,4 @@ _type: MediaObject
 
 ---
 # When ideas come to life
-![Copenhagen Furnishing is about making ideas come to life. We believe that dialogue leads the way to success. Our knowledge, experience and hard work goes hand in hand with the thoughts and preferences of the customer, to form a singular expression of personal integrity and a truly original aesthetic. Balance is everything. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62be34df-6eca-4e9a-af04-ea2379e7a135.jpg)
+![Copenhagen Furnishing is about making ideas come to life. We believe that dialogue leads the way to success. Our knowledge, experience and hard work goes hand in hand with the thoughts and preferences of the customer, to form a singular expression of personal integrity and a truly original aesthetic. Balance is everything. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6ebc4fe-52ee-425f-b233-5961be9eb0b0.jpg)
