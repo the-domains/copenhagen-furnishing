@@ -6,8 +6,8 @@ description: >-
   goes hand in hand with the thoughts and preferences of the customer, to form a
   singular expression of personal integrity and a truly original aesthetic.
   Balance is everything. 
-dateModified: '2018-04-04T11:16:16.152Z'
-datePublished: '2018-04-04T11:16:17.133Z'
+dateModified: '2018-04-09T14:34:48.112Z'
+datePublished: '2018-04-09T14:34:49.164Z'
 title: When ideas come to life
 author: []
 publisher: {}
