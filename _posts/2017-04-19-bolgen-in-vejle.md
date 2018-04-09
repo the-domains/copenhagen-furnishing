@@ -5,8 +5,8 @@ description: >-
   of unity within the different spaces and functions of a home. Every project
   must be able to stand for itself, and resonate as a meaningful whole,
   reflecting the personality and ideas of the customer.
-dateModified: '2018-04-09T09:40:52.464Z'
-datePublished: '2018-04-09T09:40:53.124Z'
+dateModified: '2018-04-09T14:34:04.399Z'
+datePublished: '2018-04-09T14:34:05.329Z'
 title: Bølgen in Vejle
 author: []
 publisher: {}
