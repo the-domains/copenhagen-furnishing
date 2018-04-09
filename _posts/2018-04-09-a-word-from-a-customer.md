@@ -6,15 +6,15 @@ description: >-
   not just a question of finding a solution, but finding the best possible
   solution for me. This is the impression I've had EVERY time we have been
   working together.” 
-dateModified: '2018-04-09T09:38:24.828Z'
-datePublished: '2018-04-09T09:38:25.940Z'
+dateModified: '2018-04-09T09:38:48.765Z'
+datePublished: '2018-04-09T09:38:49.433Z'
 title: A word from a customer
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-04-09-a-word-from-a-customer.md
 starred: false
 datePublishedOriginal: '2018-04-09T09:38:25.940Z'
-sourcePath: _posts/2018-04-09-a-word-from-a-customer.md
 _type: Blurb
 
 ---
