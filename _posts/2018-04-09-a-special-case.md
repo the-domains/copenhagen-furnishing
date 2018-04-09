@@ -5,8 +5,8 @@ description: >-
   holistic approach, where our practical knowledge and skill is applied broadly
   in the entire home, and we collaborate closely with the customer and our
   partner in interior decorating.
-dateModified: '2018-04-09T12:42:46.359Z'
-datePublished: '2018-04-09T12:42:47.185Z'
+dateModified: '2018-04-09T12:54:25.895Z'
+datePublished: '2018-04-09T12:54:26.849Z'
 title: A special case
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ With some customers, we work on nearly everything. This allows for a more holist
 "The very special thing about Copenhagen Furnishing is the skill and thoroughness with which everything is carried out, and the fact that Niels always finishes the job to suit our needs as a family. I am constantly amazed by his knowledge, and for many years he has been a huge help to us. Apart from knowing how specific products can serve our needs, Niels is a very decent and honest man, who always keeps a promise, and delivers everything he can and more."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6bd7fe-50b1-41ef-a1b7-d03522c28a69.jpg)
 
-For this exclusive home in .... , we worked on drapes, shelves, furniture, bathroom and bedroom, and helped find aesthetic and functional solutions to practical problems all over the home.
+For this exclusive home in Vedbæk, we worked on drapes, shelves, furniture, bathroom and bedroom, and helped find aesthetic and functional solutions to practical problems all over the home.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b5fd0a3-f1bb-42c3-83a2-07d380bba49b.jpg)
 
 "Many years ago I came to know about Copenhagen Furnishing through our interior designer, and for many years this has been the team we want for the projects in our home. A few years ago we got a very large dining table specially prepared. We could not find a table that suited our style, and as a consequence of this, Niels designed a table for us, and made sure that this was made by a carpenter, to suit our needs. We are so happy to say, we got exactly the dining table we wanted."
