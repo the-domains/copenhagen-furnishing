@@ -5,8 +5,8 @@ description: >-
   holistic approach, where our practical knowledge and skill is applied broadly
   in the entire home, and we collaborate closely with the customer and our
   partner in interior decorating.
-dateModified: '2018-04-09T12:33:26.807Z'
-datePublished: '2018-04-09T12:33:27.692Z'
+dateModified: '2018-04-09T12:35:27.598Z'
+datePublished: '2018-04-09T12:35:28.933Z'
 title: A special case
 author: []
 publisher: {}
@@ -40,11 +40,10 @@ For this exclusive home in .... , we worked on drapes, shelves, furniture, bathr
 A job like this makes it possible to work on very specific details, in order to add a finishing touch, and here the collaborative effort with our colleague in interior design and the customer is very important. It is a true joy to work on a project like this, because the we really get to be creative, and work on solutions that are both innovative and challenging.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb7aa5f7-7bbd-4cf6-a35e-dbacd25033d7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/201b28ca-7cd5-432c-a62d-423dd0cbbcab.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6fe265-bf34-4d1d-9407-55b9b77afe41.jpg)
 
-"Generally, I can't recommend Copenhagen Furnishing enough. Niels' integrity and professional skill is truly unique (he remembers everything!), and his knowledge of products and ability to always deliver and follow up makes me want to work with him again and again.
-
-On the more personal side, I admire his honesty and values, and he is easily the most service minded person I have ever met (which says a lot). Niels is a very loyal and decent man, who will go the distance for his customers, and does not leave until the customer is completely satisfied."
+"Generally, I can't recommend Copenhagen Furnishing enough. Niels' integrity and professional skill is truly unique (he remembers everything!), and his knowledge of products and ability to always deliver and follow up makes me want to work with him again and again."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21bac9e4-3fa5-47c2-b82c-5236d834ce84.jpg)
+
+"On the more personal side, I admire his honesty and values, and he is easily the most service minded person I have ever met (which says a lot). Niels is a very loyal and decent man, who will go the distance for his customers, and does not leave until the customer is completely satisfied."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a41b46b-9d3f-4c3b-99f4-364b8fb6ade0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a8a22a3-4fb8-4bae-9060-c6528ab266d4.jpg)
