@@ -5,8 +5,8 @@ description: >-
   holistic approach, where our practical knowledge and skill is applied broadly
   in the entire home, and we collaborate closely with the customer and our
   partner in interior decorating.
-dateModified: '2018-04-09T12:35:27.598Z'
-datePublished: '2018-04-09T12:35:28.933Z'
+dateModified: '2018-04-09T12:37:36.935Z'
+datePublished: '2018-04-09T12:37:38.274Z'
 title: A special case
 author: []
 publisher: {}
