@@ -5,8 +5,8 @@ description: >-
   holistic approach, where our practical knowledge and skill is applied broadly
   in the entire home, and we collaborate closely with the customer and our
   partner in interior decorating.
-dateModified: '2018-04-09T14:35:11.706Z'
-datePublished: '2018-04-09T14:35:12.151Z'
+dateModified: '2018-04-09T14:41:17.716Z'
+datePublished: '2018-04-09T14:41:19.316Z'
 title: A special case
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Blurb
 With some customers, we work on nearly everything. This allows for a more holistic approach, where our practical knowledge and skill is applied broadly in the entire home, and we collaborate closely with the customer and our partner in interior decorating.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4277b7a2-e57c-434f-9ec5-04f2fb9274ab.jpg)
 
-"The very special thing about Copenhagen Furnishing is the skill and thoroughness with which everything is carried out, and the fact that Niels always finishes the job to suit our needs as a family. I am constantly amazed by his knowledge, and for many years he has been a huge help to us. Apart from knowing how specific products can serve our needs, Niels is a very decent and honest man, who always keeps a promise, and delivers everything he can and more."
+"The very special thing about Copenhagen Furnishing is the skill and thoroughness with which everything is carried out, and the fact that Niels always finishes the job to suit our needs as a family. I am constantly amazed by his knowledge, and for many years he has been a huge help to us. Apart from knowing how specific products can serve our needs, Niels is a very decent and honest man, who always keeps a promise, and delivers more than we could ever dream of."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6bd7fe-50b1-41ef-a1b7-d03522c28a69.jpg)
 
 For this exclusive home in Vedbæk, we worked on drapes, shelves, furniture, bathroom and bedroom, and helped find aesthetic and functional solutions to practical problems all over the home.
