@@ -4,8 +4,8 @@ description: >-
   Porro has been able to transform wardrobe design. The thoughtful use of
   lighting and space extends the aesthetics of clothes and materials beyond
   functionality, and creates a simplistic and elegant feel of silent beauty.
-dateModified: '2018-04-04T12:09:58.059Z'
-datePublished: '2018-04-04T12:09:58.876Z'
+dateModified: '2018-04-09T14:34:48.112Z'
+datePublished: '2018-04-09T14:34:49.160Z'
 title: The Wardrobe
 author: []
 publisher: {}
