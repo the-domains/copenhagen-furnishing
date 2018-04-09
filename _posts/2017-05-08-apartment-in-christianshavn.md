@@ -4,8 +4,8 @@ description: >-
   We developed a solution for the whole of this apartment in the charming,
   historical area of Christianshavn, and made an effort to build something
   special for this very detail oriented customer.
-dateModified: '2018-04-09T09:40:52.464Z'
-datePublished: '2018-04-09T09:40:53.161Z'
+dateModified: '2018-04-09T09:55:25.075Z'
+datePublished: '2018-04-09T09:55:25.718Z'
 title: Apartment in Christianshavn
 author: []
 publisher: {}
