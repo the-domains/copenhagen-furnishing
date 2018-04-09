@@ -6,8 +6,8 @@ description: >-
   not just a question of finding a solution, but finding the best possible
   solution for me. This is the impression I've had EVERY time we have been
   working together.” 
-dateModified: '2018-04-09T09:38:48.765Z'
-datePublished: '2018-04-09T09:38:49.433Z'
+dateModified: '2018-04-09T09:40:44.035Z'
+datePublished: '2018-04-09T09:40:45.178Z'
 title: A word from a customer
 author: []
 publisher: {}
@@ -18,4 +18,8 @@ datePublishedOriginal: '2018-04-09T09:38:25.940Z'
 _type: Blurb
 
 ---
-![“Copenhagen Furnishing always goes one step further than everyone else, and when Niels is on the job, you know everything is solved to perfection. It's not just a question of finding a solution, but finding the best possible solution for me. This is the impression I've had EVERY time we have been working together.” ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/592d3e95-cd5d-4b5b-b2d3-3c01c60a25a5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/592d3e95-cd5d-4b5b-b2d3-3c01c60a25a5.jpg)
+
+## A word from a customer
+
+"Copenhagen Furnishing always goes one step further than everyone else, and when Niels is on the job, you know everything is solved to perfection. It's not just a question of finding a solution, but finding the best possible solution for me. This is the impression I've had EVERY time we have been working together."
