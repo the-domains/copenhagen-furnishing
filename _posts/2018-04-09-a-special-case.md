@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   With some customers, we work on nearly everything. This allows for a more
   holistic approach, where our practical knowledge and skill is applied broadly
   in the entire home, and we collaborate closely with the customer and our
   partner in interior decorating.
-dateModified: '2018-04-09T12:30:57.772Z'
-datePublished: '2018-04-09T12:30:58.561Z'
+dateModified: '2018-04-09T12:33:26.807Z'
+datePublished: '2018-04-09T12:33:27.692Z'
 title: A special case
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ sourcePath: _posts/2018-04-09-a-special-case.md
 starred: false
 datePublishedOriginal: '2018-04-09T10:21:10.658Z'
 url: a-special-case/index.html
-_type: Article
+_type: Blurb
 
 ---
 # A special case
