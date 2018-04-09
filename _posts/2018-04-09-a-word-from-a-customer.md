@@ -4,10 +4,10 @@ description: >-
   “Copenhagen Furnishing always goes one step further than everyone else, and
   when Niels is on the job, you know everything is solved to perfection. It's
   not just a question of finding a solution, but finding the best possible
-  solution for me. This is the impression I've had EVERY time we have been
+  solution for me. This is the impression I've had every time we have been
   working together.”
-dateModified: '2018-04-09T12:42:25.192Z'
-datePublished: '2018-04-09T12:42:25.932Z'
+dateModified: '2018-04-09T12:52:10.832Z'
+datePublished: '2018-04-09T12:52:11.990Z'
 title: A word from a customer
 author: []
 publisher: {}
@@ -24,4 +24,4 @@ _type: MediaObject
 
 ## A word from a customer
 
-"Copenhagen Furnishing always goes one step further than everyone else, and when Niels is on the job, you know everything is solved to perfection. It's not just a question of finding a solution, but finding the best possible solution for me. This is the impression I've had EVERY time we have been working together."
+"Copenhagen Furnishing always goes one step further than everyone else, and when Niels is on the job, you know everything is solved to perfection. It's not just a question of finding a solution, but finding the best possible solution for me. This is the impression I've had every time we have been working together."
