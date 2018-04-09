@@ -40,7 +40,42 @@ navigation:
     id: 4f1d8961-08f0-4a7d-9ccf-42be651ed036
     type: content
 title: Copenhagen Furnishing
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Meet Google Drive - One place for all your
+      files</h1><p>Google Drive is a free way to keep your files backed up and
+      easy to reach from any phone, tablet, or computer. Start with 15GB of
+      Google storage - free.</p><img
+      src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png"></article>
+    src: 'https://ssl.gstatic.com/accounts/ui/avatar_2x.png'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://accounts.google.com'
+        name: Google
+        favicon: 'https://accounts.google.com/favicon.ico'
+        domain: drive.google.com
+      keywords: []
+      description: >-
+        Google Drive is a free way to keep your files backed up and easy to
+        reach from any phone, tablet, or computer. Start with 15GB of Google
+        storage - free.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://drive.google.com/open?id=1_2e2M81sNb06mn47qd7-KtZYTw6xE9AH'
+      title: Meet Google Drive - One place for all your files
+      datePublished: null
+    title: Meet Google Drive - One place for all your files
+    caption: >-
+      Google Drive is a free way to keep your files backed up and easy to reach
+      from any phone, tablet, or computer. Start with 15GB of Google storage -
+      free.
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Delivering high end design and custom made furniture with perfect finish and
   integrity for more than 30 years.
