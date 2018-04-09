@@ -6,8 +6,8 @@ description: >-
   custom-made solutions and unmatched functionality and aesthetics for more than
   30 years now. Starting his career in textiles for homes, in the early years
   Niels worked extensively with bedroom and bathroom apparel.
-dateModified: '2018-04-09T09:38:48.765Z'
-datePublished: '2018-04-09T09:38:49.447Z'
+dateModified: '2018-04-09T09:40:52.464Z'
+datePublished: '2018-04-09T09:40:53.159Z'
 title: About Copenhagen Furnishing
 author: []
 publisher: {}
