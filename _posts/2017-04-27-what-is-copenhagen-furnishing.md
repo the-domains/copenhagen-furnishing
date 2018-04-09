@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Copenhagen Furnishing is the product of the skill, knowledge and experience of
   more than 30 years in the business. Read more about our story here.
-dateModified: '2018-04-09T09:38:48.765Z'
-datePublished: '2018-04-09T09:38:49.443Z'
+dateModified: '2018-04-09T09:40:52.464Z'
+datePublished: '2018-04-09T09:40:53.139Z'
 title: What is Copenhagen Furnishing?
 author: []
 publisher: {}
