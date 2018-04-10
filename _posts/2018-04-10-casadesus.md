@@ -4,16 +4,16 @@ description: >-
   When it comes to creating space for people to live in, we choose Casadesús.
   Their balanced understanding of functionality, personal design choices and
   aesthetic originality makes them a perfect partner, and a great inspiration. 
-dateModified: '2018-04-10T09:36:47.239Z'
-datePublished: '2018-04-10T09:36:48.249Z'
+dateModified: '2018-04-10T09:38:07.903Z'
+datePublished: '2018-04-10T09:38:09.066Z'
 title: Casadesús
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'http://copenhagenfurnishing.com/furniture/'
+sourcePath: _posts/2018-04-10-casadesus.md
 starred: false
 datePublishedOriginal: '2018-04-10T09:36:48.249Z'
-sourcePath: _posts/2018-04-10-casadesus.md
 _type: MediaObject
 
 ---
