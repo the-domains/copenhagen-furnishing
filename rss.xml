@@ -4,9 +4,16 @@
         <description><![CDATA[Copenhagen Furnishing]]></description>
         <link>http://copenhagenfurnishing.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Apr 2018 09:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Apr 2018 09:38:29 GMT</lastBuildDate>
         <atom:link href="http://copenhagenfurnishing.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Apr 2018 09:37:29 GMT</pubDate>
+        <pubDate>Tue, 10 Apr 2018 09:38:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[Casadesús]]></title>
+            <description><![CDATA[<h1>Casadesús</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94c2da1e-ab34-4217-9c1f-acb2923ee3e6.jpg" alt="When it comes to creating space for people to live in, we choose Casades&uacute;s. Their balanced understanding of functionality, personal design choices and aesthetic originality makes them a perfect partner, and a great inspiration. ">]]></description>
+            <link>http://copenhagenfurnishing.com/furniture/</link>
+            <guid isPermaLink="false">8f1f458c-0d0e-48f6-8347-4abbfb0238aa</guid>
+            <pubDate>Tue, 10 Apr 2018 09:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Wardrobe]]></title>
             <description><![CDATA[<h1>The Wardrobe</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c656e60-e17f-455c-a4cb-ad1534d029b1.jpg" alt="Porro has been able to transform wardrobe design. The thoughtful use of lighting and space extends the aesthetics of clothes and materials beyond functionality, and creates a simplistic and elegant feel of silent beauty.">]]></description>
@@ -43,13 +50,6 @@ We love the challenge of creating simple and personal designs that work. Our foc
             <link>http://copenhagenfurnishing.com/about-copenhagen-furnishing/</link>
             <guid isPermaLink="false">e288ffa7-e492-4860-8daa-0ab8d5d977ae</guid>
             <pubDate>Mon, 15 May 2017 13:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Casadesús]]></title>
-            <description><![CDATA[<h1>Casadesús</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94c2da1e-ab34-4217-9c1f-acb2923ee3e6.jpg" alt="When it comes to creating space for people to live in, we choose Casades&uacute;s. Their balanced understanding of functionality, personal design choices and aesthetic originality makes them a perfect partner, and a great inspiration. ">]]></description>
-            <link>http://copenhagenfurnishing.com/furniture/</link>
-            <guid isPermaLink="false">8f1f458c-0d0e-48f6-8347-4abbfb0238aa</guid>
-            <pubDate>Tue, 10 Apr 2018 09:36:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
