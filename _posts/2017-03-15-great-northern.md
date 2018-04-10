@@ -4,8 +4,8 @@ description: >-
   The Great Northern is an exclusive and internationally ambitious golf facility
   located near the charming old town of Kerteminde in the beautiful island of
   Fyn.
-dateModified: '2018-04-09T14:34:48.112Z'
-datePublished: '2018-04-09T14:34:49.165Z'
+dateModified: '2018-04-10T09:38:07.903Z'
+datePublished: '2018-04-10T09:38:09.102Z'
 title: Great Northern
 author: []
 publisher: {}
