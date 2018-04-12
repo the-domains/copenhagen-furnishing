@@ -14,7 +14,7 @@ layout_spectrum: 0.9566684358614949
 analytics:
   google: UA-34299892-5
 author:
-  name: 'info@copenhagenfurnishing.com  – +45 39207308 '
+  name: info@copenhagenfurnishing.com  – +45 21 22 44 83
   email: info@copenhagenfurnishing.com
   url: 'https://copenhagenfurnishing.com'
 name: Copenhagen Furnishing
@@ -63,7 +63,6 @@ content:
       keywords:
         - ''
       description: Uploaded by Niels Danbo on 2018-04-10.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=Q0ZZN2-EbTg&feature=applinks'
