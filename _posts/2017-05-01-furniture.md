@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Copenhagen Furnishing delivers high end furniture and custom made solutions of
   all kinds. We create space for people, and room for thought.
-dateModified: '2018-04-12T14:21:07.133Z'
-datePublished: '2018-04-12T14:21:10.510Z'
+dateModified: '2018-04-12T14:28:08.874Z'
+datePublished: '2018-04-12T14:28:10.038Z'
 title: Furniture
 author: []
 publisher: {}
@@ -26,18 +26,20 @@ Copenhagen Furnishing delivers high end furniture and custom made solutions of a
 
 At the centre of every modern home is the living room. This is the place for being with our loved ones, for relaxation, comfort and joy. We like to say that our most important job is to create space for people and room for thought, and in our minds this can be achieved through the subtle balancing of simplicity, functionality and aesthetic originality. Our work revolves around the ideas of the customer, and developing the home as a whole.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/549213f9-dfd4-465a-8132-8ad7243c120b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23b4f75-fd19-4ad8-b6a3-23133fe510f0.jpg)
 
 ## Casadesús
 
 When it comes to creating space for people, Casadesús are the cutting edge. We are very proud of our partnerships with some of the best designer brands in the world, but this one is special.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b78684e-f918-4d00-9260-062516d9b8be.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/304717a2-a093-4286-b62c-f48d17d9fe61.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4a9b98c-1e64-435e-8c15-b26fcbaa9542.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fde87a-70ab-4943-adae-b917eb0d8c3e.jpg)
 
 We are pleased to work with Casadesús, and their dedication to quality, aesthetic and originality never fails to surprise and impress us. The level of care and detail in what they do is extraordinary.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bd07fbc-2beb-4ea5-bb9f-b1a5a3482a55.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4a9b98c-1e64-435e-8c15-b26fcbaa9542.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c23a105-f019-48e0-b393-9454a9a8b1c6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e28e13c-c1d7-4b94-a2f8-541931f036a8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c3aea7-ad1d-4873-b0c2-ca71ba55fb0d.jpg)
 
 ## Kristalia
 
