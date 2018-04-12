@@ -40,37 +40,7 @@ navigation:
     id: 4f1d8961-08f0-4a7d-9ccf-42be651ed036
     type: content
 title: Copenhagen Furnishing
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkIygq6Hp6XY&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FkIygq6Hp6XY&type=text%2Fhtml&key=a715cf41cc93453ca338d350cd26f87b&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'http://youtube.com'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: l.facebook.com
-      keywords:
-        - ''
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      '@type': VideoObject
-      app_links: []
-      '@context': 'http://schema.org'
-      isBasedOnUrl: >-
-        https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FkIygq6Hp6XY&h=ATODXdTZkT1DI7zVm7E1bNjqFn_ybudrt60bLY7kXRBPIsCySKS3skWa-2ZnocFGP-MAPK-u05yVl81Dje5Ru_0Ek_fdMn0WoKoKFduLAFTmxhbTIaZRwAR1
-      title: YouTube
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: >-
   Delivering high end design and custom made furniture with perfect finish and
   integrity for more than 30 years.
