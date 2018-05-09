@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Copenhagen Furnishing delivers high end furniture and custom made solutions of
   all kinds. We create space for people, and room for thought.
-dateModified: '2018-05-09T10:10:34.159Z'
-datePublished: '2018-05-09T10:10:35.309Z'
+dateModified: '2018-05-09T10:11:22.378Z'
+datePublished: '2018-05-09T10:11:23.078Z'
 title: Furniture
 author: []
 publisher: {}
@@ -30,7 +30,6 @@ At the centre of every modern home is the living room. This is the place for bei
 ## Casadesús
 
 When it comes to creating space for people, Casadesús are the cutting edge. We are very proud of our partnerships with some of the best designer brands in the world, but this one is special.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee77aab6-9b7f-4b05-b3a6-eecf0176a94a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a39ff1-4fe0-4e5d-8e31-0ab0afb399ff.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/304717a2-a093-4286-b62c-f48d17d9fe61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fde87a-70ab-4943-adae-b917eb0d8c3e.jpg)
