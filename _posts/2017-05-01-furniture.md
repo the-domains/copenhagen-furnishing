@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Copenhagen Furnishing delivers high end furniture and custom made solutions of
   all kinds. We create space for people, and room for thought.
-dateModified: '2018-05-09T10:11:22.378Z'
-datePublished: '2018-05-09T10:11:23.078Z'
+dateModified: '2018-05-09T10:13:28.655Z'
+datePublished: '2018-05-09T10:13:29.598Z'
 title: Furniture
 author: []
 publisher: {}
@@ -49,3 +49,4 @@ Kristalia is the quintessential modern furniture producer. They make light but d
 
 They design and produce everything in Italy, and their products are available in many different materials, colours and sizes. They produce both indoor and outdoor furniture.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00492e1-6499-4857-95fd-27b26d30a0c4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31bf7799-7300-45c8-91f7-abcea485d31b.jpg)
