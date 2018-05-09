@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Copenhagen Furnishing delivers high end furniture and custom made solutions of
   all kinds. We create space for people, and room for thought.
-dateModified: '2018-05-09T10:13:28.655Z'
-datePublished: '2018-05-09T10:13:29.598Z'
+dateModified: '2018-05-09T10:17:27.615Z'
+datePublished: '2018-05-09T10:17:28.513Z'
 title: Furniture
 author: []
 publisher: {}
@@ -20,6 +20,7 @@ _type: Blurb
 # Furniture
 
 Copenhagen Furnishing delivers high end furniture and custom made solutions of all kinds. We create space for people, and room for thought.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7996bd91-88bd-43eb-93e6-4a69541ee9ad.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9260245-7f59-4d3a-ba6e-d17162e99058.jpg)
 
 ## Creating space for people
