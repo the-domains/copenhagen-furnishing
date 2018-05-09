@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   Copenhagen Furnishing delivers high end furniture and custom made solutions of
   all kinds. We create space for people, and room for thought.
-dateModified: '2018-04-12T14:30:53.957Z'
-datePublished: '2018-04-12T14:30:54.744Z'
+dateModified: '2018-05-09T10:10:34.159Z'
+datePublished: '2018-05-09T10:10:35.309Z'
 title: Furniture
 author: []
 publisher: {}
@@ -31,6 +31,7 @@ At the centre of every modern home is the living room. This is the place for bei
 
 When it comes to creating space for people, Casadesús are the cutting edge. We are very proud of our partnerships with some of the best designer brands in the world, but this one is special.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee77aab6-9b7f-4b05-b3a6-eecf0176a94a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a39ff1-4fe0-4e5d-8e31-0ab0afb399ff.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/304717a2-a093-4286-b62c-f48d17d9fe61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8fde87a-70ab-4943-adae-b917eb0d8c3e.jpg)
 
@@ -48,9 +49,4 @@ Kristalia is the quintessential modern furniture producer. They make light but d
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f95e65-6859-4e84-8376-9c75dd4bb35c.jpg)
 
 They design and produce everything in Italy, and their products are available in many different materials, colours and sizes. They produce both indoor and outdoor furniture.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56553f98-cdba-49e7-8645-59a0a06d3e74.jpg)
-
-## Magis
-
-"For Magis, design isn't so much the conception of a chair, a table, a lamp, or a car as the thought process and business culture that guides a company through its own journey, earning it the distinctions that give it its strength".
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c29a847e-f736-4857-bbb4-8390a3b2ffa8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00492e1-6499-4857-95fd-27b26d30a0c4.jpg)
