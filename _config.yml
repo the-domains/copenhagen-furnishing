@@ -60,7 +60,6 @@ content:
       keywords:
         - ''
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
